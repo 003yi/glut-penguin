@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\文件\大二下\hw\computer_graphic\1102921\1102921\Source.cpp(439,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  1102921.vcxproj -> D:\文件\大二下\hw\computer_graphic\1102921\Debug\1102921.exe
